@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-strided-special-dcbrt",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Compute the cube root of each element in a double-precision floating-point strided array.",
   "license": "Apache-2.0",
   "author": {
